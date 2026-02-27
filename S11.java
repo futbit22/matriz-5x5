@@ -21,6 +21,7 @@ public class S11 {
             }
             System.out.println("");
         }
+        s11.close();
     }
 
 }
